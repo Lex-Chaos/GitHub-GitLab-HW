@@ -3,7 +3,7 @@
 ### Задание 1
 
 Ответ:
-(https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/img/Runner-settings.png)
+![Настройки раннера](https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/img/Runner-settings.png)
 
 ---
 
@@ -11,9 +11,12 @@
 
 Ответ:
 [Файл .gitlab-ci.yml](https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/files/.gitlab-ci.yml)
-(https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/img/Jobs.png)
-(https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/img/Test.png)
-(https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/img/Build.png)
+
+![Jobs](https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/img/Jobs.png)
+
+![Test](https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/img/Test.png)
+
+![Build](https://github.com/Lex-Chaos/GitHub-GitLab-HW/blob/main/img/Build.png)
 
 ---
 
